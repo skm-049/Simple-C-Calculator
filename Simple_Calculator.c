@@ -1,6 +1,4 @@
-					
-					
-						/*		Simple Calculator By skm-049 	*/
+					/*		Simple Calculator By skm-049 	*/
 
 #include<stdio.h>
 #include<conio.h>
